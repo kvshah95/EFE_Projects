@@ -1,0 +1,4 @@
+
+source /Users/kvshah95/espf/manual_debug/build/gdbinit/py_extensions
+source /Users/kvshah95/espf/manual_debug/build/gdbinit/symbols
+source /Users/kvshah95/espf/manual_debug/build/gdbinit/connect
